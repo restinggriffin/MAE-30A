@@ -1,3 +1,4 @@
+%% Q2
 clear,clc,close all
 format compact
 syms Tah1 Cy Cz Dy Dz
@@ -13,7 +14,7 @@ Cy = double(A.Cy)
 Cz = double(A.Cz)
 Dy = double(A.Dy)
 Dz = double(A.Dz)
-%% 3
+%% Q3
 clear,clc,close all
 format compact
 syms Tcf Tde Ax Az Max Maz
@@ -31,7 +32,7 @@ Ax = double(B.Ax)
 Az = double(B.Az)
 Max = double(B.Max)
 Maz = double(B.Maz)
-%% 4
+%% Q4
 clear,clc,close all
 format compact
 syms Ax Ay Az Bx Tcg
